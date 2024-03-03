@@ -1,3 +1,3 @@
-# catcare
+# CatCare
 
 A new Flutter project.
