@@ -80,7 +80,7 @@
 - 고양이의 정보 및 회원 정보를 관리할 수 있습니다.
 
 ## 데모
-|개인정보|고양이 정보|로그인|
+|회원정보|고양이 정보|로그인|
 |:--------:|:-------:|:-------:|
 |![image](https://github.com/heeji-lee/CatCare/assets/73567158/5967195d-49ef-461d-a229-06cdd0ef3b57)|![image](https://github.com/heeji-lee/CatCare/assets/73567158/a11e9e54-91d9-42ab-81fc-520ed6fdbd7b)|![image](https://github.com/heeji-lee/CatCare/assets/73567158/c3a656c2-4233-4b62-af1f-d51f840ab5b0)
 |**건강 수첩**|**메모**|**설정**|
