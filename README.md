@@ -79,6 +79,6 @@
 ## 데모
 |회원정보|고양이 정보|로그인|
 |:--------:|:-------:|:-------:|
-|![image](https://github.com/heeji-lee/CatCare/assets/73567158/5967195d-49ef-461d-a229-06cdd0ef3b57)|![image](https://github.com/heeji-lee/CatCare/assets/73567158/a11e9e54-91d9-42ab-81fc-520ed6fdbd7b)|![image](https://github.com/heeji-lee/CatCare/assets/73567158/c3a656c2-4233-4b62-af1f-d51f840ab5b0)
+|![image](https://github.com/heeji-lee/CatCare/assets/73567158/d116ea63-0c50-46e8-a77c-268878d1d0f7)|![image](https://github.com/heeji-lee/CatCare/assets/73567158/8265c954-adcf-4742-ab16-664a0571d2aa)|![image](https://github.com/heeji-lee/CatCare/assets/73567158/7c12c574-9a47-4446-9b79-6e73f5d0268e)
 |**건강 수첩**|**메모**|**설정**|
-|![image](https://github.com/heeji-lee/CatCare/assets/73567158/8f1fd10d-fe19-4744-ac85-e9ed741a9f1d)|![image](https://github.com/heeji-lee/CatCare/assets/73567158/d368ec2f-edf8-4c1b-bae8-251c3d232fa2)|![image](https://github.com/heeji-lee/CatCare/assets/73567158/3c8dd75b-e56a-4f50-9118-c3590c2319c1)|
+|![image](https://github.com/heeji-lee/CatCare/assets/73567158/30e8b790-ccc0-4579-baeb-cd34baee4bc8)|![image](https://github.com/heeji-lee/CatCare/assets/73567158/f6ffb322-4857-441d-ab7a-8e20ce23dd6c)|![image](https://github.com/heeji-lee/CatCare/assets/73567158/d5e950b1-811e-4b36-9d24-7eab9ee5c31a)
