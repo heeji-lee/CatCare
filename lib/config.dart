@@ -1,4 +1,4 @@
-final url = 'http://192.168.245.210:8000';
+final url = 'http://localhost:8000';
 final checkId = url + '/checkid';
 final signup = url + '/signup';
 final cat = url + '/cat';
