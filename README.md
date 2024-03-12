@@ -1,5 +1,5 @@
 >## 프로젝트 소개 📝
->고양이의 행동을 분석하여 건강 상태를 알려주는 애플리케이션입니다. 최근 반려동물을 기르는 반려 가구의 수가 빠르게 증가하고 있습니다. 반려동물의 행동 문제를 빠르게 파악하고 해결하는데 기여하기 위하여 개발하게 되었습니다.
+><b>고양이의 행동을 분석하여 건강 상태를 알려주는 애플리케이션</b>입니다. 최근 반려동물을 기르는 반려 가구의 수가 빠르게 증가하고 있습니다. 반려동물의 행동 문제를 빠르게 파악하고 해결하는데 기여하기 위하여 개발하게 되었습니다.
 
 <table>
   <tr>
@@ -31,12 +31,9 @@
 >![image](https://github.com/heeji-lee/CatCare/assets/73567158/7ae7dbdb-0288-4f1f-8cf2-4429685d2c80)
 
 >## ERD 구조
-><img src="https://github.com/heeji-lee/CatCare/assets/73567158/c8a0eee1-a66b-4140-b1f0-31b9d461dc1c" width="500" heigth="500"></br>
->user - 사용자 정보</br>
->cat - 고양이 정보</br>
->info_act - 고양이 행동 정보</br>
->act - 행동 코드 정보</br>
->memo - 캘린더 메모 정보</br>
+>📌[ERD Cloud에서 직접 보기](https://www.erdcloud.com/d/x5hksGzgMHyawuNvj)
+>
+>![image](https://github.com/heeji-lee/CatCare/assets/73567158/2f030259-3971-4f61-936e-976ccf5e09c6)
 
 ># 주요 기능
 >## 요약
