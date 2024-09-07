@@ -81,5 +81,6 @@
 |:--------:|:-------:|:-------:|
 |![Untitled-mockup](https://github.com/user-attachments/assets/6d813eb6-e974-4497-8ecb-546388043ed2)|![Untitled-mockup (1)](https://github.com/user-attachments/assets/f5b5249e-6097-47f9-a30e-3a45569ac7d6)|![Untitled-mockup (2)](https://github.com/user-attachments/assets/7de6b34f-6719-441d-b0e5-e01d080d0605)
 |**건강 수첩**|**메모**|**설정**|
-|![Untitled-mockup (5)](https://github.com/user-attachments/assets/0eebb64f-0a21-4dea-8832-e709466c63ef)|![Untitled-mockup (6)](https://github.com/user-attachments/assets/db4f7f02-d313-4589-9823-d33245c803ab)|![Untitled-mockup (3)](https://github.com/user-attachments/assets/7d12562e-585a-4b51-b335-0f9eba09fe5c)|
+|![Untitled-mockup (5)](https://github.com/user-attachments/assets/0eebb64f-0a21-4dea-8832-e709466c63ef)|![Untitled-mockup (6)](https://github.com/user-attachments/assets/db4f7f02-d313-4589-9823-d33245c803ab)|![Untitled-mockup (7)](https://github.com/user-attachments/assets/a2f6fe26-e31c-4988-ac37-a87aa9f3556a)
+
 
