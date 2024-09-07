@@ -79,6 +79,7 @@
 ## 데모
 |회원정보|고양이 정보|로그인|
 |:--------:|:-------:|:-------:|
-|![image](https://github.com/heeji-lee/CatCare/assets/73567158/d116ea63-0c50-46e8-a77c-268878d1d0f7)|![image](https://github.com/heeji-lee/CatCare/assets/73567158/8265c954-adcf-4742-ab16-664a0571d2aa)|![image](https://github.com/heeji-lee/CatCare/assets/73567158/7c12c574-9a47-4446-9b79-6e73f5d0268e)
+|![Untitled-mockup](https://github.com/user-attachments/assets/6d813eb6-e974-4497-8ecb-546388043ed2)|![Untitled-mockup (1)](https://github.com/user-attachments/assets/f5b5249e-6097-47f9-a30e-3a45569ac7d6)|![Untitled-mockup (2)](https://github.com/user-attachments/assets/7de6b34f-6719-441d-b0e5-e01d080d0605)
 |**건강 수첩**|**메모**|**설정**|
-|![image](https://github.com/heeji-lee/CatCare/assets/73567158/30e8b790-ccc0-4579-baeb-cd34baee4bc8)|![image](https://github.com/heeji-lee/CatCare/assets/73567158/f6ffb322-4857-441d-ab7a-8e20ce23dd6c)|![image](https://github.com/heeji-lee/CatCare/assets/73567158/d5e950b1-811e-4b36-9d24-7eab9ee5c31a)
+|![Untitled-mockup (5)](https://github.com/user-attachments/assets/0eebb64f-0a21-4dea-8832-e709466c63ef)|![Untitled-mockup (6)](https://github.com/user-attachments/assets/db4f7f02-d313-4589-9823-d33245c803ab)|![Untitled-mockup (3)](https://github.com/user-attachments/assets/7d12562e-585a-4b51-b335-0f9eba09fe5c)|
+
